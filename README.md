@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @eltabei
-- 👀 I’m interested in web dev
-- 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/eltabei_m.svg?style=social&label=Follow%20%40eltabei_m)](https://twitter.com/eltabei_m)
+
